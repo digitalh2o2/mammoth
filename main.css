@@ -1,0 +1,29 @@
+.list-items {
+  float: left;
+  text-align: left;
+}
+
+.title {
+  color: #063E1B;
+}
+
+.footer {
+  background-color: #063E1B;
+  height: 25px;
+  margin-top: 25px;
+  padding-top: 0;
+}
+
+small {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover {
+  color: lightblue;
+}
